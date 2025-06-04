@@ -1,0 +1,25 @@
+#developer{
+    text-align: center;
+}
+
+#rat{
+    height: 500px;
+}
+
+
+
+.container{
+    /* display: flex;
+    position: relative;
+    align-items: center; */
+    padding-right: 20px;
+}
+
+.titles{
+    text-align: center;
+}
+
+.projects{
+    align-content: center;
+    text-align: center;
+}
